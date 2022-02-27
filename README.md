@@ -22,7 +22,7 @@ These keyboards is designed by m.ki.
 |753|none|row|pro micro|none|none|
 |836A|none|alice|pro micro|[Here](https://github.com/telzo2000/cool836A)|[Here](https://mki0002ozlet.booth.pm/items/2542223)|
 |836pico|none|alice|Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool836pico)|[Here](https://mki0002ozlet.booth.pm/items/3391829)|
-|cool836rp|none|alice|RP2040-Zero|[Here](https://github.com/telzo2000/cool836pico)|[Here](https://mki0002ozlet.booth.pm/items/3599330)|
+|836rp|none|alice|RP2040-Zero|[Here](https://github.com/telzo2000/cool836pico)|[Here](https://mki0002ozlet.booth.pm/items/3599330)|
 |844|none|alice|pro micro|[Here](https://github.com/telzo2000/cool844)|[Here](https://mki0002ozlet.booth.pm/items/2805606)|
 |844V2|none|alice|pro micro|[Here](https://github.com/telzo2000/cool844V2)|[Here](https://mki0002ozlet.booth.pm/items/3267681)|
 |847|none|alice|pro micro|[Here](https://github.com/telzo2000/cool847)|[Here](https://mki0002ozlet.booth.pm/items/3358065)|

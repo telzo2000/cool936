@@ -25,12 +25,12 @@
      showgrid="false"
      width="300mm"
      inkscape:zoom="0.47563807"
-     inkscape:cx="706.41948"
-     inkscape:cy="378.43901"
+     inkscape:cx="587.63168"
+     inkscape:cy="550.839"
      inkscape:window-width="1267"
      inkscape:window-height="738"
-     inkscape:window-x="-102"
-     inkscape:window-y="26"
+     inkscape:window-x="133"
+     inkscape:window-y="68"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      height="300mm" />
@@ -325,123 +325,9 @@
        id="g4597"
        transform="matrix(0.00254,0,0,0.00254,105.35498,290.82466)" />
     <g
-       id="g13715"
-       transform="translate(192.22548,-412.25461)"
-       style="stroke:#000000;stroke-opacity:1">
-      <path
-         d="m -34.54314,656.1046 v 9.71804"
-         id="path4751"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="59.424923"
-         cy="602.59442"
-         r="2.1000009"
-         id="circle4769"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="59.424923"
-         cy="660.58514"
-         r="2.1000009"
-         id="circle4771"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-11.784998"
-         cy="660.58514"
-         r="2.1000009"
-         id="circle4795"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -34.54314,656.1046 h 89.8906"
-         id="path4797"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 55.34746,656.1046 V 583.6638"
-         id="path4817"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 58.42594,665.82264 H -34.54314"
-         id="path4819"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 66.16532,583.6638 v 74.41946"
-         id="path4821"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 58.424924,665.82518 a 7.7400912,7.7400912 0 0 0 7.740142,-7.73938"
-         id="path4823"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 55.34746,583.6638 H 66.16532"
-         id="path4825"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="17.994984"
-         cy="660.58514"
-         r="2.1000009"
-         id="circle4827"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
-    <g
-       id="g13768"
-       transform="translate(268.64517,-391.98254)"
-       style="stroke:#000000;stroke-opacity:1">
-      <path
-         d="m -139.03366,666.27222 h -99.30892"
-         id="path4759"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-198.64491"
-         cy="661.03473"
-         r="2.1000009"
-         id="circle4761"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-240.44569"
-         cy="603.46564"
-         r="2.1000009"
-         id="circle4763"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M -236.56458,583.83398 V 656.8539"
-         id="path4767"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -246.0845,658.53538 a 7.7400912,7.7400912 0 0 0 7.73938,7.73938"
-         id="path4773"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-240.44569"
-         cy="661.03473"
-         r="2.1000009"
-         id="circle4829"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -139.03366,656.8539 v 9.41832"
-         id="path4831"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -236.56458,656.8539 h 97.53092"
-         id="path4851"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-171.89618"
-         cy="661.03473"
-         r="2.1000009"
-         id="circle4853"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -246.0845,583.83398 h 9.51992"
-         id="path4855"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M -246.0845,658.53284 V 583.83398"
-         id="path4857"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
-    <g
        id="g13795"
        style="stroke:#000000;stroke-opacity:1"
-       transform="rotate(90,240.90592,572.32954)">
+       transform="rotate(90,235.8789,603.2854)">
       <path
          d="m -109.2547,637.20446 v -16.4211"
          id="path4757"
@@ -552,58 +438,9 @@
          style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
-       id="g13702"
-       style="stroke:#000000;stroke-opacity:1"
-       transform="rotate(-90,-117.54063,361.99576)">
-      <path
-         d="m 65.564864,562.32526 a 7.7400912,7.7400912 0 0 0 -7.739888,-7.74192"
-         id="path4753"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 65.56588,562.32272 v 3.64998"
-         id="path4801"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -0.39284,548.8023 -0.78994,1.36144"
-         id="path4903"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 54.74548,563.23458 H 22.50526"
-         id="path4905"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 54.74548,565.9727 h 10.8204"
-         id="path4911"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="17.395039"
-         cy="554.65448"
-         r="2.1000009"
-         id="circle4913"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 54.74548,563.23458 v 2.73812"
-         id="path4915"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -0.39284,548.8023 58.21934,5.78104"
-         id="path4917"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="58.824974"
-         cy="559.33569"
-         r="2.1000009"
-         id="circle4919"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 22.50526,563.23458 -1.18278,550.16374"
-         id="path4921"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
-    <g
        id="g13690"
        style="stroke:#000000;stroke-opacity:1"
-       transform="rotate(-90,-129.48626,216.93088)">
+       transform="rotate(90,114.41952,461.9763)">
       <path
          d="m -97.99488,520.113 v 10.08126"
          id="path5107"
@@ -714,106 +551,8 @@
          style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
-       id="g13597"
-       style="stroke:#000000;stroke-opacity:1"
-       transform="rotate(-90,-54.090154,304.12559)">
-      <path
-         d="m 5.185,412.04362 -0.78994,1.3589"
-         id="path5209"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 60.32586,426.47336 H 28.08564"
-         id="path5211"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 60.32586,429.21402 h 10.8204"
-         id="path5213"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="22.974907"
-         cy="417.89478"
-         r="2.1000009"
-         id="circle5215"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 60.32586,426.47336 v 2.74066"
-         id="path5217"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 5.185,412.04362 58.22188,5.7785"
-         id="path5219"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="64.405098"
-         cy="422.57471"
-         r="2.1000009"
-         id="circle5221"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 28.08564,426.47336 4.39506,413.40252"
-         id="path5223"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 71.14626,425.56404 v 3.64998"
-         id="path5225"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 71.14499,425.56455 a 7.7400912,7.7400912 0 0 0 -7.740142,-7.73989"
-         id="path5227"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
-    <g
-       id="g13860"
-       transform="rotate(180,-25.823327,503.38535)"
-       style="stroke:#000000;stroke-opacity:1">
-      <path
-         d="m -232.73426,729.20326 h 9.51992"
-         id="path5285"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -192.92484,726.74454 h -30.2895"
-         id="path5305"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-185.29468"
-         cy="718.16443"
-         r="2.1000009"
-         id="circle5319"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-227.09546"
-         cy="722.84564"
-         r="2.1000009"
-         id="circle5321"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -232.73426,725.83268 v 3.37058"
-         id="path5331"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -171.67266,712.4545 -53.32222,5.6388"
-         id="path5333"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -170.66428,714.1944 -1.00838,-1.7399"
-         id="path5349"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -223.21434,726.74454 v 2.45872"
-         id="path5377"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -224.99488,718.09584 a 7.7400912,7.7400912 0 0 0 -7.73938,7.73938"
-         id="path5379"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -192.92484,726.74454 22.26056,-12.55014"
-         id="path5389"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
-    <g
        id="g13873"
-       transform="translate(279.85937,-553.70353)"
+       transform="translate(273.50933,-543.6493)"
        style="stroke:#000000;stroke-opacity:1">
       <circle
          cx="-193.98402"
@@ -866,55 +605,6 @@
       <path
          d="m -231.90368,744.09274 v 59.24042"
          id="path5397"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
-    <g
-       id="g13807"
-       transform="rotate(-90,-271.05466,429.45363)"
-       style="stroke:#000000;stroke-opacity:1">
-      <path
-         d="M 28.90606,726.74454 H -3.33416"
-         id="path5261"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 28.90606,729.48266 h 10.8204"
-         id="path5281"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-8.4448977"
-         cy="718.16443"
-         r="2.1000009"
-         id="circle5283"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 28.90606,726.74454 v 2.73812"
-         id="path5307"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -26.2348,712.31226 58.22188,5.78104"
-         id="path5311"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="32.985046"
-         cy="722.84564"
-         r="2.1000009"
-         id="circle5337"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M -3.33416,726.74454 -27.02474,713.6737"
-         id="path5347"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 39.72646,725.83268 v 3.64998"
-         id="path5353"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 39.724936,725.83522 A 7.7400912,7.7400912 0 0 0 31.984794,718.0933"
-         id="path5387"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m -26.2348,712.31226 -0.78994,1.36144"
-         id="path5403"
          style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
@@ -1031,124 +721,8 @@
          style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
-       id="g1216"
-       transform="translate(-182.55394,41.404336)">
-      <path
-         d="m 367.97705,117.23749 h 19.00936"
-         id="path5229"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 386.98641,117.23749 v -9.56056"
-         id="path5231"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 351.02763,121.95681 h 16.94942"
-         id="path5247"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-122.13842"
-         cy="430.68707"
-         r="2.1000009"
-         id="circle5249"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         transform="rotate(-90)" />
-      <path
-         d="m 408.99551,112.33783 h 26.93162"
-         id="path5251"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 386.98641,107.67693 h 22.0091"
-         id="path5263"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 367.97705,121.95681 v -4.71932"
-         id="path5267"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 344.77669,82.43695 -2.4003,4.06908"
-         id="path5271"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-122.13842"
-         cy="347.12872"
-         r="2.1000009"
-         id="circle5291"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         transform="rotate(-90)" />
-      <path
-         d="m 418.34525,118.98755 -7.55904,7.55904"
-         id="path5293"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 425.90683,126.54659 -7.56158,-7.55904"
-         id="path5299"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 408.99551,107.67693 v 4.6609"
-         id="path5301"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 435.92713,126.64819 h -10.0203"
-         id="path5317"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 350.97683,86.11741 -6.20014,-3.68046"
-         id="path5323"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 351.02763,121.95681 -0.0508,-35.8394"
-         id="path5329"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 342.37639,126.64819 V 86.50603"
-         id="path5339"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 410.78621,126.64819 v -0.1016"
-         id="path5357"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 359.90747,134.21739 7.55904,-7.56158"
-         id="path5359"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 352.34589,126.65581 7.56158,7.56158"
-         id="path5363"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <circle
-         cx="-89.578415"
-         cy="347.12872"
-         r="2.1000009"
-         id="circle5367"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         transform="rotate(-90)" />
-      <circle
-         cx="-122.13842"
-         cy="373.11798"
-         r="2.1000009"
-         id="circle5369"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         transform="rotate(-90)" />
-      <path
-         d="m 352.34589,126.65581 h -9.9695"
-         id="path5393"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="M 435.92713,126.64819 V 112.33783"
-         id="path5405"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 410.78621,126.64819 h -43.3197"
-         id="path5407"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         d="m 425.90683,126.64819 v -0.1016"
-         id="path5413"
-         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
-    <g
        id="g13610"
-       transform="translate(202.7572,-258.03078)"
+       transform="translate(209.63641,-245.3307)"
        style="stroke:#000000;stroke-opacity:1">
       <path
          d="m 60.9253,519.34338 v -72.4408"
@@ -1205,7 +779,7 @@
     </g>
     <g
        id="g13663"
-       transform="translate(248.24803,-239.98213)"
+       transform="translate(244.54384,-233.10292)"
        style="stroke:#000000;stroke-opacity:1">
       <path
          d="m -230.9842,520.09268 h 97.53092"
@@ -1262,7 +836,7 @@
     </g>
     <g
        id="g13549"
-       transform="translate(214.41727,-74.769346)"
+       transform="translate(219.70897,-67.361008)"
        style="stroke:#000000;stroke-opacity:1">
       <path
          d="M 68.62658,364.33226 H -24.3425"
@@ -2573,7 +2147,7 @@
        style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:59.0551;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     <g
        id="g1348"
-       transform="translate(-303.35638,36.317966)">
+       transform="translate(-181.95789,7.266887)">
       <path
          d="m 367.97705,117.23749 h 19.00936"
          id="path1298"
@@ -2689,7 +2263,7 @@
     </g>
     <g
        id="g2099"
-       transform="rotate(90,73.524755,304.46657)">
+       transform="rotate(180,28.160572,197.40582)">
       <path
          d="m -107.96891,181.66914 h 0.0991"
          id="path5157"
@@ -2798,6 +2372,297 @@
          r="2.1000009"
          id="circle5207"
          style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g29807"
+       transform="translate(259.74577,-529.59373)"
+       style="stroke:#000000;stroke-opacity:1">
+      <circle
+         cx="-193.98402"
+         cy="807.51398"
+         r="2.1000009"
+         id="circle29785"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M -241.4236,805.0121 V 744.09274"
+         id="path29787"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m -231.90368,803.33316 h 97.53092"
+         id="path29789"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m -241.4236,744.09274 h 9.51992"
+         id="path29791"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="-235.78481"
+         cy="807.51398"
+         r="2.1000009"
+         id="circle29793"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m -134.37276,803.33316 v 9.42086"
+         id="path29795"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m -134.37276,812.75402 h -99.31146"
+         id="path29797"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="-167.23528"
+         cy="807.51398"
+         r="2.1000009"
+         id="circle29799"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m -241.42614,805.01464 a 7.7400912,7.7400912 0 0 0 7.74192,7.73938"
+         id="path29801"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="-235.78481"
+         cy="749.94489"
+         r="2.1000009"
+         id="circle29803"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m -231.90368,744.09274 v 59.24042"
+         id="path29805"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g31709"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.777895,-918.52915)">
+      <path
+         d="m 161.5632,4082.1443 v -12.7008"
+         id="path7627"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 197.5824,4072.9187 H 343.512"
+         id="path7629"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 343.512,4072.9187 v 72.0384"
+         id="path7631"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 161.5632,4134.2243 h 35.9424"
+         id="path7633"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 197.5056,4134.2243 v 10.7328"
+         id="path7635"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 197.5056,4144.9571 H 343.512"
+         id="path7637"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 197.5824,4072.9187 v 9.2256"
+         id="path7639"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 197.5824,4082.1443 H 161.5632"
+         id="path7641"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 190.8144,4040.1923 a 29.253888,29.253888 0 0 0 -29.2608,29.2541"
+         id="path9001"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="613.58978"
+         cy="4156.3755"
+         r="4.1574817"
+         id="circle9005"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 425.5248,4040.1539 206.736,0.038"
+         id="path9007"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 392.3376,4018.8707 -201.5232,21.3216"
+         id="path9009"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="441.95999"
+         cy="4058.1453"
+         r="4.1574817"
+         id="circle9015"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 396.1584,4025.4467 -3.8208,-6.576"
+         id="path9023"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="613.58978"
+         cy="4058.1453"
+         r="4.1574817"
+         id="circle9025"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 161.5536,4151.5744 a 29.253888,29.253888 0 0 0 29.2608,29.2541"
+         id="path9029"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 161.5632,4151.5715 v -17.3472"
+         id="path9035"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 632.2608,4040.1923 v 37.7952"
+         id="path9037"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="340.8624"
+         cy="4040.4573"
+         r="4.1574817"
+         id="circle9039"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 632.2608,4180.8227 H 190.8144"
+         id="path9041"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 410.2608,4048.8803 15.264,-8.7264"
+         id="path9047"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 632.2608,4077.9875 v 102.8352"
+         id="path9049"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="182.8752"
+         cy="4156.3755"
+         r="4.1574817"
+         id="circle9053"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="182.8752"
+         cy="4058.1453"
+         r="4.1574817"
+         id="circle9057"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 396.1584,4025.4467 14.1024,23.4336"
+         id="path9063"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g31682"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.445415,-925.58871)">
+      <path
+         d="m 1191.336,4083.2003 v -13.7568"
+         id="path7625"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 1191.336,4135.2803 H 1150.44"
+         id="path7711"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1150.44,4135.2803 v 9.6768"
+         id="path7713"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 1150.44,4144.9571 H 1009.464"
+         id="path7715"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1009.464,4144.9571 v -71.9616"
+         id="path7717"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1009.464,4072.9955 h 140.8608"
+         id="path7719"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1150.3248,4072.9955 v 10.2048"
+         id="path7721"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1150.3248,4083.2003 h 41.0112"
+         id="path7723"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="1165.8922"
+         cy="4154.7876"
+         r="4.1574817"
+         id="circle7725"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1162.0742,4180.8285 a 29.253888,29.253888 0 0 0 29.2541,-29.2532"
+         id="path9003"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="773.65247"
+         cy="4058.1453"
+         r="4.1574817"
+         id="circle9011"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 1162.0752,4180.8227 H 756.5712"
+         id="path9013"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="1165.8547"
+         cy="4058.1453"
+         r="4.1574817"
+         id="circle9017"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 756.5712,4180.8227 V 4077.8723"
+         id="path9019"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="773.65247"
+         cy="4156.3755"
+         r="4.1574817"
+         id="circle9021"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="M 756.6096,4040.1923 H 908.3184"
+         id="path9027"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 923.7072,4049.2547 -15.3888,-9.0624"
+         id="path9031"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1191.336,4135.2803 v 16.2912"
+         id="path9033"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 942.0336,4018.3427 220.0416,21.84"
+         id="path9043"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="1165.8547"
+         cy="4154.7876"
+         r="4.1574817"
+         id="circle9045"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 756.5712,4077.8723 v -37.68"
+         id="path9051"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 923.7072,4049.2547 18.3264,-30.912"
+         id="path9055"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="1009.2682"
+         cy="4040.4573"
+         r="4.1574817"
+         id="circle9059"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         d="m 1191.3283,4069.4454 a 29.253888,29.253888 0 0 0 -29.2541,-29.2531"
+         id="path9061"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="896.71393"
+         cy="4058.1453"
+         r="4.1574817"
+         id="circle9065"
+         style="fill:#c2c200;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
   </g>
 </svg>

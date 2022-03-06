@@ -1040,12 +1040,12 @@ Connection ~ 3075 5225
 Wire Wire Line
 	3075 5225 3675 5225
 $Comp
-L kbd:ProMicro U1
+L cool936-rescue:ProMicro-kbd U1
 U 1 1 62079521
 P 3025 1600
 F 0 "U1" H 3025 2637 60  0000 C CNN
 F 1 "ProMicro" H 3025 2531 60  0000 C CNN
-F 2 "" H 3125 550 60  0001 C CNN
+F 2 "logo:ProMicro_v3_kimura_for_cool936" H 3125 550 60  0001 C CNN
 F 3 "" H 3125 550 60  0000 C CNN
 	1    3025 1600
 	1    0    0    -1  
@@ -1269,12 +1269,12 @@ Wire Wire Line
 Wire Wire Line
 	1675 1725 1525 1725
 $Comp
-L kbd:ProMicro U2
+L cool936-rescue:ProMicro-kbd U2
 U 1 1 621A5C74
 P 7025 1600
 F 0 "U2" H 7025 2637 60  0000 C CNN
 F 1 "ProMicro" H 7025 2531 60  0000 C CNN
-F 2 "" H 7125 550 60  0001 C CNN
+F 2 "logo:ProMicro_v3_kimura_for_cool936" H 7125 550 60  0001 C CNN
 F 3 "" H 7125 550 60  0000 C CNN
 	1    7025 1600
 	1    0    0    -1  

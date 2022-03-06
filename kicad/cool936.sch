@@ -1040,12 +1040,12 @@ Connection ~ 3075 5225
 Wire Wire Line
 	3075 5225 3675 5225
 $Comp
-L kbd:ProMicro U1
+L cool936-rescue:ProMicro-kbd U1
 U 1 1 62079521
 P 3025 1600
 F 0 "U1" H 3025 2637 60  0000 C CNN
 F 1 "ProMicro" H 3025 2531 60  0000 C CNN
-F 2 "logo:ProMicro_v3_kimura" H 3125 550 60  0001 C CNN
+F 2 "logo:ProMicro_v3_kimura_for_cool936" H 3125 550 60  0001 C CNN
 F 3 "" H 3125 550 60  0000 C CNN
 	1    3025 1600
 	1    0    0    -1  
@@ -1091,7 +1091,7 @@ Text GLabel 2325 1650 0    50   Input ~ 0
 col2L
 Text GLabel 2325 1750 0    50   Input ~ 0
 col3L
-Text GLabel 2325 1850 0    50   Input ~ 0
+Text GLabel 2325 1950 0    50   Input ~ 0
 col4L
 Text GLabel 3725 1450 2    50   Input ~ 0
 row0L
@@ -1099,7 +1099,7 @@ Text GLabel 3725 1550 2    50   Input ~ 0
 row1L
 Text GLabel 3725 1650 2    50   Input ~ 0
 row2L
-Text GLabel 3725 1750 2    50   Input ~ 0
+Text GLabel 3725 1850 2    50   Input ~ 0
 row3L
 Text GLabel 2325 850  0    50   Input ~ 0
 LEDL
@@ -1116,9 +1116,9 @@ F 3 "" H 4100 1150 50  0001 C CNN
 $EndComp
 NoConn ~ 3725 1250
 NoConn ~ 3725 1350
-NoConn ~ 3725 1850
+NoConn ~ 3725 1750
 NoConn ~ 3725 1950
-NoConn ~ 2325 1950
+NoConn ~ 2325 1850
 NoConn ~ 2325 1350
 NoConn ~ 2325 1250
 $Comp
@@ -1269,12 +1269,12 @@ Wire Wire Line
 Wire Wire Line
 	1675 1725 1525 1725
 $Comp
-L kbd:ProMicro U2
+L cool936-rescue:ProMicro-kbd U2
 U 1 1 621A5C74
 P 7025 1600
 F 0 "U2" H 7025 2637 60  0000 C CNN
 F 1 "ProMicro" H 7025 2531 60  0000 C CNN
-F 2 "logo:ProMicro_v3_kimura" H 7125 550 60  0001 C CNN
+F 2 "logo:ProMicro_v3_kimura_for_cool936" H 7125 550 60  0001 C CNN
 F 3 "" H 7125 550 60  0000 C CNN
 	1    7025 1600
 	1    0    0    -1  
@@ -1287,7 +1287,7 @@ Text GLabel 6325 1650 0    50   Input ~ 0
 col2R
 Text GLabel 6325 1750 0    50   Input ~ 0
 col3R
-Text GLabel 6325 1850 0    50   Input ~ 0
+Text GLabel 6325 1950 0    50   Input ~ 0
 col4R
 Text GLabel 7725 1450 2    50   Input ~ 0
 row0R
@@ -1295,7 +1295,7 @@ Text GLabel 7725 1550 2    50   Input ~ 0
 row1R
 Text GLabel 7725 1650 2    50   Input ~ 0
 row2R
-Text GLabel 7725 1750 2    50   Input ~ 0
+Text GLabel 7725 1850 2    50   Input ~ 0
 row3R
 Text GLabel 6325 850  0    50   Input ~ 0
 LEDR
@@ -1312,9 +1312,9 @@ F 3 "" H 8100 1150 50  0001 C CNN
 $EndComp
 NoConn ~ 7725 1250
 NoConn ~ 7725 1350
-NoConn ~ 7725 1850
+NoConn ~ 7725 1750
 NoConn ~ 7725 1950
-NoConn ~ 6325 1950
+NoConn ~ 6325 1850
 NoConn ~ 6325 1350
 NoConn ~ 6325 1250
 $Comp

@@ -1,4 +1,4 @@
-2117871613114882
+2154223195500212
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -8246,12 +8246,12 @@ R
 1
 1
 kbd
-CherryMX-Hotswap-v2
+Breakaway_Tabs
 
 
 0
-10
-2
+0
+0
 kbd
 CherryMX_1u
 
@@ -8260,14 +8260,21 @@ CherryMX_1u
 2
 2
 kbd
-CherryMX_Choc_1.5u
+CherryMX_ChocV2_1.5u
 
 
 0
-4
+5
 2
 kbd
-CherryMX_Choc_1.5u_1side
+CherryMX_ChocV2_1u
+
+
+0
+5
+2
+kbd
+CherryMX_Choc_1.5u
 
 
 0
@@ -8299,28 +8306,14 @@ CherryMX_Hotswap
 
 
 0
-4
+2
 2
 kbd
 CherryMX_Hotswap_1.5u
 
 
 0
-4
 2
-kbd
-CherryMX_Hotswap_v2
-
-
-0
-10
-2
-kbd
-CherryMX_Hotswap_v2_kimurau
-
-
-0
-10
 2
 kbd
 CherryMX_MidHeight_Choc_Hotswap
@@ -8328,13 +8321,6 @@ CherryMX_MidHeight_Choc_Hotswap
 
 0
 8
-2
-kbd
-CherryMX_MidHeight_Choc_Hotswap_katagawa
-
-
-0
-4
 2
 kbd
 CherryMX_MidHeight_Hotswap
@@ -8351,18 +8337,18 @@ CherryMX_MidHeight_Hotswap_1.5u
 4
 2
 kbd
-Choc_Hotswap
+ChocV1_V2_Hotswap
 
 
 0
-4
+3
 2
 kbd
-Choc_Hotswap_1.5u
+ChocV1_V2_Hotswap_1.5u
 
 
 0
-4
+3
 2
 kbd
 D3_SMD
@@ -8376,14 +8362,14 @@ D3_SMD_v2
 Resitance 3 pas
 R
 0
-4
+2
 2
 kbd
 D3_TH
 Resitance 3 pas
 R
 0
-2
+4
 2
 kbd
 D3_TH_SMD
@@ -8391,6 +8377,13 @@ Resitance 3 pas
 R
 0
 6
+2
+kbd
+D3_TH_SMD_v2
+Resitance 3 pas
+R
+0
+4
 2
 kbd
 GND_pad
@@ -8435,6 +8428,13 @@ Jumper
 2
 2
 kbd
+LED_WS2812B-PLCC4
+http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf
+LED NeoPixel
+0
+4
+4
+kbd
 M2_HOLE
 Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
@@ -8443,6 +8443,41 @@ mounting hole 2.2mm no annular m2
 0
 kbd
 M2_HOLE_v2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd
+M2_HOLE_v3
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+9
+1
+kbd
+M2_Hole_NPTH_Outside
+
+
+0
+0
+0
+kbd
+M2_Hole_TH
+
+
+0
+1
+0
+kbd
+M2_Hole_TH_Outside
+
+
+0
+1
+0
+kbd
+M2_Threads_v2
 Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
 0
@@ -8485,6 +8520,13 @@ CONN DEV
 4
 kbd
 OLED_1side
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+kbd
+OLED_v2
 Connecteur 6 pins
 CONN DEV
 0
@@ -8568,6 +8610,27 @@ SK6812MINI_underglow_rev
 8
 4
 kbd
+SW_Hole
+
+
+0
+0
+0
+kbd
+SW_Hole_ALPS
+
+
+0
+0
+0
+kbd
+SW_Hole_TH
+
+
+0
+4
+1
+kbd
 StripLED_1side
 
 
@@ -8589,7 +8652,28 @@ StripLED_rev
 6
 3
 kbd
+YS-SK6812MINI-E
+
+
+0
+4
+4
+kbd
 corne
+
+
+0
+0
+0
+kbd
+corne-cherry-logo
+
+
+0
+0
+0
+kbd
+corne-horizontal
 
 
 0
@@ -8603,6 +8687,27 @@ corne-logo
 0
 0
 kbd
+corne-logo-horizontal
+
+
+0
+0
+0
+kbd
+corne-logo-horizontal-mask
+
+
+0
+0
+0
+kbd
+corne-logo-silk
+
+
+0
+0
+0
+kbd
 corne-mask
 
 
@@ -8610,9 +8715,44 @@ corne-mask
 0
 0
 kbd
+keyswitch_cherrymx_alps_choc12_1.5u
+
+
+0
+6
+2
+kbd
+keyswitch_cherrymx_alps_choc12_1u
+
+
+0
+6
+2
+kbd
+keyswitch_hole
+
+
+0
+2
+2
+kbd
 petit_split-logo
 
 
+0
+0
+0
+kbd
+spacer_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd
+thread_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
 0
 0
@@ -8695,6 +8835,13 @@ Teensy_20
 31
 logo
 ProMicro_v3_kimura
+
+
+0
+24
+24
+logo
+ProMicro_v3_kimura_for_cool936
 
 
 0

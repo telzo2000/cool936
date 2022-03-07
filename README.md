@@ -4,9 +4,27 @@
 
 cool936 is a split keyboard with a [qaz](https://www.cbkbd.com/product/qaz-keyboard-kit) layout.
 <br>
-qazレイアウトの分割キーボードです。
+[qaz](https://www.cbkbd.com/product/qaz-keyboard-kit)レイアウトの分割キーボードです。
 <br>
 <br>
+
+
+## Terms of use(使用条件)
+
+You are free to duplicate the data related to cool936, place an order for PCB, etc. and use it personally.
+<br>
+cool936に関するデータを複製して、PCB等発注して個人で使用するのは自由です。
+<br>
+However, it is prohibited to give or receive money such as sales using the data ordered by an individual.
+<br>
+ただし、個人で発注したデータを使用して販売等、金銭の授受が発生することは禁止です。
+<br>
+The transfer of money as a manufacturing agent is also included in the prohibition.
+<br>
+製造代行と称しての金銭の授受も禁止に含まれます。
+<br>
+<br>
+
 
 ## What are coolxxx?
 

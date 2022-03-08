@@ -22,7 +22,7 @@ Information as of March 8, 2022<br>
 |15|pro micro|PCB１枚につき１個|ピンヘッダが必要|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|時価|
 |16|キーキャップ|36|[DSS Micro](https://mechvault.net/products/dss-micro-keycap-set)推奨<br>※2|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|1個で100円前後<br>キーキャップセットで3000円程度から|
 |17|TRRSケーブル|１本||[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|300円程度から|
-|18|ゴム足|PCB１枚につき４個|任意|DIYショップ等|100円程度|
+|18|ゴム足|８|任意|DIYショップ等|100円程度|
 
 
 ※１　The [case folder](https://github.com/telzo2000/cool936/tree/main/case) contains two 300mmX300mm acrylic files, and the [case_wide folder](https://github.com/telzo2000/cool936/tree/main/case_wide) contains one 300mmX450mm acrylic file.

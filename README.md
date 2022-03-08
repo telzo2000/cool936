@@ -8,6 +8,10 @@ cool936 is a split keyboard with a [qaz](https://www.cbkbd.com/product/qaz-keybo
 <br>
 <br>
 
+## Build Guide
+
+
+
 
 ## Terms of use(使用条件)
 

@@ -3,11 +3,11 @@
 ## Parts List
 Information as of March 8, 2022<br>
 令和４年３月８日時点の情報
-|番号| 名前 | 数 | 備考 | 調達先の例 | 参考価格（送料込） |
+|番号| 名前 | 数 | 備考 | 調達先の例 | 参考価格 |
 |:-|:-|:-|--|--|--|
-|1|PCB Leftside|1|108.27 mm<br>* 86.87 mm|JLCPCB|12.3ドル|
-|2|PCB Rightside|1|98.87 mm<br>* 87.43 mm|↑|6.4ドル|
-|3|Switch Plate|1|FR-4<br>左右一体で発注<br>242.4 mm<br>* 99.3 mm|↑|33.4ドル（送料別）|
+|1|PCB Leftside|1|108.27 mm<br>* 86.87 mm|JLCPCB|５枚8.2ドル|
+|2|PCB Rightside|1|98.87 mm<br>* 87.43 mm|↑|５枚で2.2ドル|
+|3|Switch Plate|1|FR-4<br>左右一体で発注<br>242.4 mm<br>* 99.3 mm|↑|５枚で33.4ドル|
 |4|Top Plate|左右１枚ずつ|アクリル3mm||※１|
 |5|Middle Plate|４層分（20個に分割）|アクリル3mm||※１|
 |6|Bottom Plate|２層分|アクリル3mm||※１|

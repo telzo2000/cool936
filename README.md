@@ -1,5 +1,6 @@
 # cool936
 
+![](img/img00001.jpg)
 ## What is cool936?
 
 cool936 is a split keyboard with a [qaz](https://www.cbkbd.com/product/qaz-keyboard-kit) layout.
@@ -48,6 +49,7 @@ These keyboards is designed by m.ki.
 |844|none|alice|pro micro|[Here](https://github.com/telzo2000/cool844)|[Here](https://mki0002ozlet.booth.pm/items/2805606)|
 |844V2|none|alice|pro micro|[Here](https://github.com/telzo2000/cool844V2)|[Here](https://mki0002ozlet.booth.pm/items/3267681)|
 |847|none|alice|pro micro|[Here](https://github.com/telzo2000/cool847)|[Here](https://mki0002ozlet.booth.pm/items/3358065)|
+|936|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool936)|none|
 |943S|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool943S)|[Here](https://mki0002ozlet.booth.pm/items/2901779)|
 |950S|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool950S)|[Here](https://mki0002ozlet.booth.pm/items/3160071)|
 |959|none|alice splite|pro micro|[Here](https://github.com/telzo2000/cool959)|in preparation|

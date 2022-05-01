@@ -1,0 +1,106 @@
+[
+  {
+    "name": "cool936S"
+  },
+  [
+    {
+      "x": 1.5,
+      "c": "#777777"
+    },
+    "1\n\n\n\n\n\n\n\n\nQ",
+    {
+      "c": "#cccccc"
+    },
+    "2\n\n\n\n\n\n\n\n\nW",
+    "3\n\n\n\n\n\n\n\n\nE",
+    "4\n\n\n\n\n\n\n\n\nR",
+    "5\n\n\n\n\n\n\n\n\nT",
+    {
+      "x": 3
+    },
+    "8\n\n\n\n\n\n\n\n\nY",
+    "9\n\n\n\n\n\n\n\n\nU",
+    "10\n\n\n\n\n\n\n\n\nI",
+    "11\n\n\n\n\n\n\n\n\nO",
+    {
+      "w": 1.25
+    },
+    "301\n\n\n\n\n\n\n\n\nP"
+  ],
+  [
+    {
+      "x": 1.5,
+      "w": 1.25
+    },
+    "104\n\n\n\n\n\n\n\n\nA",
+    "12\n\n\n\n\n\n\n\n\nS",
+    "13\n\n\n\n\n\n\n\n\nD",
+    "14\n\n\n\n\n\n\n\n\nF",
+    "15\n\n\n\n\n\n\n\n\nG",
+    {
+      "x": 3
+    },
+    "18\n\n\n\n\n\n\n\n\nH",
+    "19\n\n\n\n\n\n\n\n\nJ",
+    "20\n\n\n\n\n\n\n\n\nK",
+    "21\n\n\n\n\n\n\n\n\nL",
+    {
+      "c": "#777777"
+    },
+    "201\n\n\n\n\n\n\n\n\nMICRO"
+  ],
+  [
+    {
+      "x": 1.5,
+      "c": "#cccccc",
+      "w": 1.75
+    },
+    "302\n\n\n\n\n\n\n\n\nZ",
+    "22\n\n\n\n\n\n\n\n\nX",
+    "23\n\n\n\n\n\n\n\n\nC",
+    "24\n\n\n\n\n\n\n\n\nV",
+    "25\n\n\n\n\n\n\n\n\nB",
+    {
+      "x": 3
+    },
+    "28\n\n\n\n\n\n\n\n\nN",
+    "29\n\n\n\n\n\n\n\n\nM",
+    "30\n\n\n\n\n\n\n\n<\n,",
+    {
+      "w": 1.5
+    },
+    "31\n\n\n\n\n\n\n\n>\n."
+  ],
+  [
+    {
+      "x": 2.25,
+      "c": "#777777"
+    },
+    "101\n\n\n\n\n\n\n\n\nCTRL",
+    {
+      "c": "#cccccc"
+    },
+    "102\n\n\n\n\n\n\n\n\nSYS",
+    "103\n\n\n\n\n\n\n\n\nALT",
+    {
+      "c": "#777777",
+      "w": 1.75
+    },
+    "701",
+    {
+      "x": 3,
+      "c": "#cccccc"
+    },
+    "34\n\n\n\n\n\n\n\n\nRAISE",
+    {
+      "c": "#777777",
+      "w": 1.75
+    },
+    "601",
+    {
+      "c": "#cccccc",
+      "w": 1.25
+    },
+    "35\n\n\n\n\n\n\n\n\nLOWER"
+  ]
+]

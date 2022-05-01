@@ -1,0 +1,144 @@
+[
+  {
+    "name": "cool936SbyDSS_Micro"
+  },
+  [
+    {
+      "x": 1.5
+    },
+    "1\n\n\n\n\n\n\n\n\nQ",
+    "2\n\n\n\n\n\n\n\n\nW",
+    "3\n\n\n\n\n\n\n\n\nE",
+    "4\n\n\n\n\n\n\n\n\nR",
+    "5\n\n\n\n\n\n\n\n\nT",
+    {
+      "x": 3
+    },
+    "6\n\n\n\n\n\n\n\n\nY",
+    "7\n\n\n\n\n\n\n\n\nU",
+    {
+      "c": "#0ed1ff"
+    },
+    "8\n\n\n\n\n\n\n\n\nI",
+    {
+      "c": "#444444",
+      "t": "#0ed1ff"
+    },
+    "10\n\n\n\n\n\n\n\n\nO",
+    {
+      "c": "#cccccc",
+      "t": "#000000",
+      "w": 1.25
+    },
+    "201\n\n\n\n\n\n\n\n\nP"
+  ],
+  [
+    {
+      "x": 1.5,
+      "c": "#444444",
+      "t": "#0ed1ff",
+      "w": 1.25
+    },
+    "202\n\n\n\n\n\n\n\n\nA",
+    {
+      "c": "#cccccc",
+      "t": "#000000"
+    },
+    "11\n\n\n\n\n\n\n\n\nS",
+    "12\n\n\n\n\n\n\n\n\nD",
+    "13\n\n\n\n\n\n\n\n\nF",
+    "14\n\n\n\n\n\n\n\n\nG",
+    {
+      "x": 3
+    },
+    "15\n\n\n\n\n\n\n\n\nH",
+    {
+      "c": "#0ed1ff"
+    },
+    "16\n\n\n\n\n\n\n\n\nJ",
+    {
+      "c": "#444444",
+      "t": "#0ed1ff"
+    },
+    "17\n\n\n\n\n\n\n\n\nK",
+    {
+      "c": "#cccccc",
+      "t": "#000000"
+    },
+    "18\n\n\n\n\n\n\n\n\nL",
+    {
+      "c": "#0ed1ff"
+    },
+    "19\n\n\n\n\n\n\n\n\nMICRO"
+  ],
+  [
+    {
+      "x": 1.5,
+      "c": "#444444",
+      "t": "#0ed1ff",
+      "w": 1.75
+    },
+    "401\n\n\n\n\n\n\n\n\nZ",
+    {
+      "c": "#cccccc",
+      "t": "#000000"
+    },
+    "20\n\n\n\n\n\n\n\n\nX",
+    "21\n\n\n\n\n\n\n\n\nC",
+    "22\n\n\n\n\n\n\n\n\nV",
+    "23\n\n\n\n\n\n\n\n\nB",
+    {
+      "x": 3,
+      "c": "#0ed1ff"
+    },
+    "24\n\n\n\n\n\n\n\n\nN",
+    {
+      "c": "#444444",
+      "t": "#0ed1ff"
+    },
+    "25\n\n\n\n\n\n\n\n\nM",
+    {
+      "c": "#cccccc",
+      "t": "#000000"
+    },
+    "26\n\n\n\n\n\n\n\n<\n,",
+    {
+      "c": "#444444",
+      "t": "#0ed1ff",
+      "w": 1.5
+    },
+    "301\n\n\n\n\n\n\n\n>\n."
+  ],
+  [
+    {
+      "x": 2.25
+    },
+    "27\n\n\n\n\n\n\n\n\nCTRL",
+    "28\n\n\n\n\n\n\n\n\nSYS",
+    "29\n\n\n\n\n\n\n\n\nALT",
+    {
+      "c": "#cccccc",
+      "t": "#000000",
+      "w": 1.75
+    },
+    "402",
+    {
+      "x": 3,
+      "c": "#444444",
+      "t": "#0ed1ff"
+    },
+    "30\n\n\n\n\n\n\n\n\nRAISE",
+    {
+      "c": "#cccccc",
+      "t": "#000000",
+      "w": 1.75
+    },
+    "403",
+    {
+      "c": "#444444",
+      "t": "#0ed1ff",
+      "w": 1.25
+    },
+    "203\n\n\n\n\n\n\n\n\nLOWER"
+  ]
+]

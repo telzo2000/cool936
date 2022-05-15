@@ -19,7 +19,7 @@ U 1 1 62073490
 P 1675 2975
 F 0 "SW1" H 1675 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 1675 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 1675 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 1675 3175 50  0001 C CNN
 F 3 "" H 1675 3175 50  0001 C CNN
 	1    1675 2975
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 62075B9D
 P 2275 2975
 F 0 "SW2" H 2275 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2275 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2275 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2275 3175 50  0001 C CNN
 F 3 "" H 2275 3175 50  0001 C CNN
 	1    2275 2975
 	1    0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 620777D5
 P 2875 2975
 F 0 "SW3" H 2875 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2875 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2875 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2875 3175 50  0001 C CNN
 F 3 "" H 2875 3175 50  0001 C CNN
 	1    2875 2975
 	1    0    0    -1  
@@ -85,7 +85,7 @@ U 1 1 620777E9
 P 3475 2975
 F 0 "SW4" H 3475 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 3475 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 3475 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 3475 3175 50  0001 C CNN
 F 3 "" H 3475 3175 50  0001 C CNN
 	1    3475 2975
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 62079D69
 P 1675 3625
 F 0 "SW102" H 1675 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 1675 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 1675 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 1675 3825 50  0001 C CNN
 F 3 "" H 1675 3825 50  0001 C CNN
 	1    1675 3625
 	1    0    0    -1  
@@ -129,7 +129,7 @@ U 1 1 62079D7D
 P 2275 3625
 F 0 "SW11" H 2275 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2275 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2275 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2275 3825 50  0001 C CNN
 F 3 "" H 2275 3825 50  0001 C CNN
 	1    2275 3625
 	1    0    0    -1  
@@ -151,7 +151,7 @@ U 1 1 62079D91
 P 2875 3625
 F 0 "SW12" H 2875 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2875 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2875 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2875 3825 50  0001 C CNN
 F 3 "" H 2875 3825 50  0001 C CNN
 	1    2875 3625
 	1    0    0    -1  
@@ -173,7 +173,7 @@ U 1 1 62079DA5
 P 3475 3625
 F 0 "SW13" H 3475 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 3475 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 3475 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 3475 3825 50  0001 C CNN
 F 3 "" H 3475 3825 50  0001 C CNN
 	1    3475 3625
 	1    0    0    -1  
@@ -195,7 +195,7 @@ U 1 1 6207F7C3
 P 1675 4275
 F 0 "SW301" H 1675 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 1675 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 1675 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 1675 4475 50  0001 C CNN
 F 3 "" H 1675 4475 50  0001 C CNN
 	1    1675 4275
 	1    0    0    -1  
@@ -217,7 +217,7 @@ U 1 1 6207F7D7
 P 2275 4275
 F 0 "SW20" H 2275 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2275 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2275 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2275 4475 50  0001 C CNN
 F 3 "" H 2275 4475 50  0001 C CNN
 	1    2275 4275
 	1    0    0    -1  
@@ -239,7 +239,7 @@ U 1 1 6207F7EB
 P 2875 4275
 F 0 "SW21" H 2875 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2875 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2875 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2875 4475 50  0001 C CNN
 F 3 "" H 2875 4475 50  0001 C CNN
 	1    2875 4275
 	1    0    0    -1  
@@ -261,7 +261,7 @@ U 1 1 6207F7FF
 P 3475 4275
 F 0 "SW22" H 3475 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 3475 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 3475 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 3475 4475 50  0001 C CNN
 F 3 "" H 3475 4475 50  0001 C CNN
 	1    3475 4275
 	1    0    0    -1  
@@ -283,7 +283,7 @@ U 1 1 6207F813
 P 1675 4925
 F 0 "SW27" H 1675 5210 50  0000 C CNN
 F 1 "Switch_SW_Push" H 1675 5119 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 1675 5125 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 1675 5125 50  0001 C CNN
 F 3 "" H 1675 5125 50  0001 C CNN
 	1    1675 4925
 	1    0    0    -1  
@@ -305,7 +305,7 @@ U 1 1 6207F827
 P 2275 4925
 F 0 "SW28" H 2275 5210 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2275 5119 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2275 5125 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2275 5125 50  0001 C CNN
 F 3 "" H 2275 5125 50  0001 C CNN
 	1    2275 4925
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 6207F83B
 P 2875 4925
 F 0 "SW29" H 2875 5210 50  0000 C CNN
 F 1 "Switch_SW_Push" H 2875 5119 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 2875 5125 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 2875 5125 50  0001 C CNN
 F 3 "" H 2875 5125 50  0001 C CNN
 	1    2875 4925
 	1    0    0    -1  
@@ -349,7 +349,7 @@ U 1 1 6207F84F
 P 3475 4925
 F 0 "SW302" H 3475 5210 50  0000 C CNN
 F 1 "Switch_SW_Push" H 3475 5119 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 3475 5125 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 3475 5125 50  0001 C CNN
 F 3 "" H 3475 5125 50  0001 C CNN
 	1    3475 4925
 	1    0    0    -1  
@@ -371,7 +371,7 @@ U 1 1 620898B7
 P 4075 2975
 F 0 "SW5" H 4075 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 4075 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 4075 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 4075 3175 50  0001 C CNN
 F 3 "" H 4075 3175 50  0001 C CNN
 	1    4075 2975
 	1    0    0    -1  
@@ -393,7 +393,7 @@ U 1 1 620898CB
 P 4075 3625
 F 0 "SW14" H 4075 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 4075 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 4075 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 4075 3825 50  0001 C CNN
 F 3 "" H 4075 3825 50  0001 C CNN
 	1    4075 3625
 	1    0    0    -1  
@@ -415,7 +415,7 @@ U 1 1 620898DF
 P 4075 4275
 F 0 "SW23" H 4075 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 4075 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 4075 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 4075 4475 50  0001 C CNN
 F 3 "" H 4075 4475 50  0001 C CNN
 	1    4075 4275
 	1    0    0    -1  
@@ -437,7 +437,7 @@ U 1 1 6208F327
 P 5625 2975
 F 0 "SW6" H 5625 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 5625 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 5625 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 5625 3175 50  0001 C CNN
 F 3 "" H 5625 3175 50  0001 C CNN
 	1    5625 2975
 	1    0    0    -1  
@@ -459,7 +459,7 @@ U 1 1 6208F33B
 P 6225 2975
 F 0 "SW7" H 6225 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6225 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6225 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6225 3175 50  0001 C CNN
 F 3 "" H 6225 3175 50  0001 C CNN
 	1    6225 2975
 	1    0    0    -1  
@@ -481,7 +481,7 @@ U 1 1 6208F34F
 P 6825 2975
 F 0 "SW8" H 6825 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6825 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6825 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6825 3175 50  0001 C CNN
 F 3 "" H 6825 3175 50  0001 C CNN
 	1    6825 2975
 	1    0    0    -1  
@@ -503,7 +503,7 @@ U 1 1 6208F363
 P 7425 2975
 F 0 "SW10" H 7425 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 7425 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 7425 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 7425 3175 50  0001 C CNN
 F 3 "" H 7425 3175 50  0001 C CNN
 	1    7425 2975
 	1    0    0    -1  
@@ -525,7 +525,7 @@ U 1 1 6208F377
 P 5625 3625
 F 0 "SW15" H 5625 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 5625 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 5625 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 5625 3825 50  0001 C CNN
 F 3 "" H 5625 3825 50  0001 C CNN
 	1    5625 3625
 	1    0    0    -1  
@@ -547,7 +547,7 @@ U 1 1 6208F38B
 P 6225 3625
 F 0 "SW16" H 6225 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6225 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6225 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6225 3825 50  0001 C CNN
 F 3 "" H 6225 3825 50  0001 C CNN
 	1    6225 3625
 	1    0    0    -1  
@@ -569,7 +569,7 @@ U 1 1 6208F39F
 P 6825 3625
 F 0 "SW17" H 6825 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6825 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6825 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6825 3825 50  0001 C CNN
 F 3 "" H 6825 3825 50  0001 C CNN
 	1    6825 3625
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 6208F3B3
 P 7425 3625
 F 0 "SW18" H 7425 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 7425 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 7425 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 7425 3825 50  0001 C CNN
 F 3 "" H 7425 3825 50  0001 C CNN
 	1    7425 3625
 	1    0    0    -1  
@@ -613,7 +613,7 @@ U 1 1 6208F3C7
 P 5625 4275
 F 0 "SW24" H 5625 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 5625 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 5625 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 5625 4475 50  0001 C CNN
 F 3 "" H 5625 4475 50  0001 C CNN
 	1    5625 4275
 	1    0    0    -1  
@@ -635,7 +635,7 @@ U 1 1 6208F3DB
 P 6225 4275
 F 0 "SW25" H 6225 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6225 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6225 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6225 4475 50  0001 C CNN
 F 3 "" H 6225 4475 50  0001 C CNN
 	1    6225 4275
 	1    0    0    -1  
@@ -657,7 +657,7 @@ U 1 1 6208F3EF
 P 6825 4275
 F 0 "SW26" H 6825 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6825 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6825 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6825 4475 50  0001 C CNN
 F 3 "" H 6825 4475 50  0001 C CNN
 	1    6825 4275
 	1    0    0    -1  
@@ -679,7 +679,7 @@ U 1 1 6208F403
 P 7425 4275
 F 0 "SW201" H 7425 4560 50  0000 C CNN
 F 1 "Switch_SW_Push" H 7425 4469 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 7425 4475 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 7425 4475 50  0001 C CNN
 F 3 "" H 7425 4475 50  0001 C CNN
 	1    7425 4275
 	1    0    0    -1  
@@ -701,7 +701,7 @@ U 1 1 6208F417
 P 5625 4925
 F 0 "SW30" H 5625 5210 50  0000 C CNN
 F 1 "Switch_SW_Push" H 5625 5119 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 5625 5125 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 5625 5125 50  0001 C CNN
 F 3 "" H 5625 5125 50  0001 C CNN
 	1    5625 4925
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 6208F42B
 P 6225 4925
 F 0 "SW303" H 6225 5210 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6225 5119 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6225 5125 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6225 5125 50  0001 C CNN
 F 3 "" H 6225 5125 50  0001 C CNN
 	1    6225 4925
 	1    0    0    -1  
@@ -745,7 +745,7 @@ U 1 1 6208F43F
 P 6825 4925
 F 0 "SW103" H 6825 5210 50  0000 C CNN
 F 1 "Switch_SW_Push" H 6825 5119 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 6825 5125 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 6825 5125 50  0001 C CNN
 F 3 "" H 6825 5125 50  0001 C CNN
 	1    6825 4925
 	1    0    0    -1  
@@ -767,7 +767,7 @@ U 1 1 6208F467
 P 8025 2975
 F 0 "SW101" H 8025 3260 50  0000 C CNN
 F 1 "Switch_SW_Push" H 8025 3169 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 8025 3175 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 8025 3175 50  0001 C CNN
 F 3 "" H 8025 3175 50  0001 C CNN
 	1    8025 2975
 	1    0    0    -1  
@@ -789,7 +789,7 @@ U 1 1 6208F47B
 P 8025 3625
 F 0 "SW19" H 8025 3910 50  0000 C CNN
 F 1 "Switch_SW_Push" H 8025 3819 50  0000 C CNN
-F 2 "kbd:CherryMX-Hotswap-v2" H 8025 3825 50  0001 C CNN
+F 2 "logo:CherryMX_Hotswap_kimura" H 8025 3825 50  0001 C CNN
 F 3 "" H 8025 3825 50  0001 C CNN
 	1    8025 3625
 	1    0    0    -1  
@@ -1056,7 +1056,7 @@ U 1 1 620F8884
 P 2200 5925
 F 0 "L3" H 2200 6187 51  0000 C CNN
 F 1 "SK6812MINI" H 2200 6122 16  0000 C CNN
-F 2 "KiCAD_FootPrint-master:YS-SK6812MINI-E_UG" H 2200 5925 60  0001 C CNN
+F 2 "kbd:LED_WS2812B-PLCC4" H 2200 5925 60  0001 C CNN
 F 3 "" H 2200 5925 60  0001 C CNN
 	1    2200 5925
 	1    0    0    -1  
@@ -1067,7 +1067,7 @@ U 1 1 620F8C84
 P 2750 5925
 F 0 "L2" H 2750 6187 51  0000 C CNN
 F 1 "SK6812MINI" H 2750 6122 16  0000 C CNN
-F 2 "KiCAD_FootPrint-master:YS-SK6812MINI-E_UG" H 2750 5925 60  0001 C CNN
+F 2 "kbd:LED_WS2812B-PLCC4" H 2750 5925 60  0001 C CNN
 F 3 "" H 2750 5925 60  0001 C CNN
 	1    2750 5925
 	1    0    0    -1  
@@ -1078,7 +1078,7 @@ U 1 1 620F9E3C
 P 3300 5925
 F 0 "L1" H 3300 6187 51  0000 C CNN
 F 1 "SK6812MINI" H 3300 6122 16  0000 C CNN
-F 2 "KiCAD_FootPrint-master:YS-SK6812MINI-E_UG" H 3300 5925 60  0001 C CNN
+F 2 "kbd:LED_WS2812B-PLCC4" H 3300 5925 60  0001 C CNN
 F 3 "" H 3300 5925 60  0001 C CNN
 	1    3300 5925
 	1    0    0    -1  
@@ -1091,7 +1091,7 @@ Text GLabel 2325 1650 0    50   Input ~ 0
 col2L
 Text GLabel 2325 1750 0    50   Input ~ 0
 col3L
-Text GLabel 2325 1850 0    50   Input ~ 0
+Text GLabel 2325 1950 0    50   Input ~ 0
 col4L
 Text GLabel 3725 1450 2    50   Input ~ 0
 row0L
@@ -1099,7 +1099,7 @@ Text GLabel 3725 1550 2    50   Input ~ 0
 row1L
 Text GLabel 3725 1650 2    50   Input ~ 0
 row2L
-Text GLabel 3725 1750 2    50   Input ~ 0
+Text GLabel 3725 1850 2    50   Input ~ 0
 row3L
 Text GLabel 2325 850  0    50   Input ~ 0
 LEDL
@@ -1116,9 +1116,9 @@ F 3 "" H 4100 1150 50  0001 C CNN
 $EndComp
 NoConn ~ 3725 1250
 NoConn ~ 3725 1350
-NoConn ~ 3725 1850
+NoConn ~ 3725 1750
 NoConn ~ 3725 1950
-NoConn ~ 2325 1950
+NoConn ~ 2325 1850
 NoConn ~ 2325 1350
 NoConn ~ 2325 1250
 $Comp
@@ -1287,7 +1287,7 @@ Text GLabel 6325 1650 0    50   Input ~ 0
 col2R
 Text GLabel 6325 1750 0    50   Input ~ 0
 col3R
-Text GLabel 6325 1850 0    50   Input ~ 0
+Text GLabel 6325 1950 0    50   Input ~ 0
 col4R
 Text GLabel 7725 1450 2    50   Input ~ 0
 row0R
@@ -1295,7 +1295,7 @@ Text GLabel 7725 1550 2    50   Input ~ 0
 row1R
 Text GLabel 7725 1650 2    50   Input ~ 0
 row2R
-Text GLabel 7725 1750 2    50   Input ~ 0
+Text GLabel 7725 1850 2    50   Input ~ 0
 row3R
 Text GLabel 6325 850  0    50   Input ~ 0
 LEDR
@@ -1312,9 +1312,9 @@ F 3 "" H 8100 1150 50  0001 C CNN
 $EndComp
 NoConn ~ 7725 1250
 NoConn ~ 7725 1350
-NoConn ~ 7725 1850
+NoConn ~ 7725 1750
 NoConn ~ 7725 1950
-NoConn ~ 6325 1950
+NoConn ~ 6325 1850
 NoConn ~ 6325 1350
 NoConn ~ 6325 1250
 $Comp
@@ -1449,7 +1449,7 @@ U 1 1 621B08CC
 P 6150 5925
 F 0 "L6" H 6150 6187 51  0000 C CNN
 F 1 "SK6812MINI" H 6150 6122 16  0000 C CNN
-F 2 "KiCAD_FootPrint-master:YS-SK6812MINI-E_UG" H 6150 5925 60  0001 C CNN
+F 2 "kbd:LED_WS2812B-PLCC4" H 6150 5925 60  0001 C CNN
 F 3 "" H 6150 5925 60  0001 C CNN
 	1    6150 5925
 	1    0    0    -1  
@@ -1460,7 +1460,7 @@ U 1 1 621B08D6
 P 6700 5925
 F 0 "L5" H 6700 6187 51  0000 C CNN
 F 1 "SK6812MINI" H 6700 6122 16  0000 C CNN
-F 2 "KiCAD_FootPrint-master:YS-SK6812MINI-E_UG" H 6700 5925 60  0001 C CNN
+F 2 "kbd:LED_WS2812B-PLCC4" H 6700 5925 60  0001 C CNN
 F 3 "" H 6700 5925 60  0001 C CNN
 	1    6700 5925
 	1    0    0    -1  
@@ -1471,7 +1471,7 @@ U 1 1 621B08E0
 P 7250 5925
 F 0 "L4" H 7250 6187 51  0000 C CNN
 F 1 "SK6812MINI" H 7250 6122 16  0000 C CNN
-F 2 "KiCAD_FootPrint-master:YS-SK6812MINI-E_UG" H 7250 5925 60  0001 C CNN
+F 2 "kbd:LED_WS2812B-PLCC4" H 7250 5925 60  0001 C CNN
 F 3 "" H 7250 5925 60  0001 C CNN
 	1    7250 5925
 	1    0    0    -1  
@@ -1539,8 +1539,6 @@ F 3 "" H 5875 6125 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 5950 5825
-Text GLabel 7450 6025 2    50   Input ~ 0
-LEDR
 $Comp
 L kbd:SW_PUSH SW900
 U 1 1 621B99DB
@@ -1589,4 +1587,6 @@ F 3 "" H 8550 2100 50  0001 C CNN
 $EndComp
 Text GLabel 7950 2100 0    50   Input ~ 0
 resetR
+Text GLabel 7450 6025 2    50   Input ~ 0
+LEDR
 $EndSCHEMATC

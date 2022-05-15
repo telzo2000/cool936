@@ -1,4 +1,4 @@
-2154223195500212
+2170707140552793
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -7840,6 +7840,13 @@ rotary encoder
 7
 6
 Rotary_Encoder
+RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles_kimura
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
+rotary encoder
+0
+7
+6
+Rotary_Encoder
 RotaryEncoder_Alps_EC12E_Vertical_H20mm
 Alps rotary encoder, EC12E..., vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html
 rotary encoder
@@ -8763,6 +8770,13 @@ waffle
 0
 0
 0
+kbd_kicad_footprints-main
+EVQWGD001
+
+
+0
+6
+6
 keebs
 Mx_Alps_100
 MXALPS
@@ -8834,6 +8848,41 @@ Teensy_20
 31
 31
 logo
+CherryMX_Choc_1u_kimura
+
+
+0
+4
+2
+logo
+CherryMX_Hotswap_ISO_ENTER_kimura
+
+
+0
+2
+2
+logo
+CherryMX_Hotswap_kimura
+
+
+0
+2
+2
+logo
+D3_TH_SMD_kimura
+Resitance 3 pas
+R
+0
+6
+2
+logo
+EVQWGD001
+
+
+0
+6
+6
+logo
 ProMicro_v3_kimura
 
 
@@ -8854,6 +8903,20 @@ RP2040-Zero
 0
 23
 23
+logo
+RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles_kimura
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
+rotary encoder
+0
+7
+6
+logo
+RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles_for_cool650
+Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html
+rotary encoder
+0
+8
+4
 logo
 TRSpad
 Resitance 3 pas
@@ -8931,6 +8994,13 @@ dragonbreath_mini
 0
 0
 0
+logo
+kirikae3pin
+Connecteur 6 pins
+CONN DEV
+0
+3
+3
 logo
 kiritoriparts
 

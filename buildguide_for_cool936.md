@@ -5,7 +5,7 @@
 
 ## Parts List
 Information as of March 8, 2022<br>
-令和４年３月８日時点の情報
+令和４年５月23日時点の情報
 |番号| 名前 | 数 | 備考 | 調達先の例 | 参考価格 |
 |:-|:-|:-|--|--|--|
 |1|PCB Leftside|1|108.27 mm<br>* 86.87 mm|JLCPCB|５枚9.6ドル|

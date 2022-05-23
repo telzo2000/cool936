@@ -11,30 +11,31 @@ Information as of March 8, 2022<br>
 |1|PCB Leftside|1|108.27 mm<br>* 86.87 mm|JLCPCB|５枚9.6ドル|
 |2|PCB Rightside|1|98.87 mm<br>* 87.43 mm|↑|５枚で3.7ドル|
 |3|Switch Plate|1|FR-4<br>左右一体で発注<br>242.4 mm<br>* 99.3 mm|↑|５枚で33.4ドル|
-|4|Top Plate|左右１枚ずつ|アクリル3mm||※１|
-|5|Middle Plate|４層分（20個に分割）|アクリル3mm||※１|
-|6|Bottom Plate|２層分|アクリル3mm||※１|
+|4|Top Plate|左右１枚ずつ|アクリル3mm|※１|※２|
+|5|Middle Plate|４層分（20個に分割）|アクリル3mm|※１|※２|
+|6|Bottom Plate|２層分|アクリル3mm|※１|※２|
 |7|M2ネジ|32|8mm<br>TopPlate側から20本挿入<br>BottomPlate側（奥）から12本挿入|DIYショップ等|10本程度で100円|
 |8|M2ネジ|8|4mm<br>BottomPlate側（手前）から挿入|DIYショップ等|10本程度で100円|
-|9|M2スペーサー|20|11mm丸型※２|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/default.aspx)<br>[遊舎工房](https://shop.yushakobo.jp)等|20個で748円（税込）@ヒロスギネット|
+|9|M2スペーサー|20|11mm丸型※３|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/default.aspx)<br>[遊舎工房](https://shop.yushakobo.jp)等|20個で748円（税込）@ヒロスギネット|
 |10|Diode|36本|リードタイプ、SMDのどちらでも可|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|100個で220円（税込）|
 |11|Reset Switch|2|タクタイルスイッチとも|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|1個で11円（税込）|
 |12|Switch Socket|36|Cherry MX互換|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|10個で165円（税込）|
 |13|TRRS Jack|2||[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|１個55円（税込）|
 |14|pro micro|PCB１枚につき１個|ピンヘッダが必要|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|時価|
-|15|キーキャップ|36|[DSS Micro](https://mechvault.net/products/dss-micro-keycap-set)推奨<br>※3|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|1個で100円前後<br>キーキャップセットで3000円程度から|
+|15|キーキャップ|36|[DSS Micro](https://mechvault.net/products/dss-micro-keycap-set)推奨<br>※４|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|1個で100円前後<br>キーキャップセットで3000円程度から|
 |16|TRRSケーブル|１本||[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|300円程度から|
 |17|ゴム足|８|任意|DIYショップ等|100円程度|
 
-
-※１　The [case folder](https://github.com/telzo2000/cool936/tree/main/case) contains two 300mmX300mm acrylic files, and the [case_wide folder](https://github.com/telzo2000/cool936/tree/main/case_wide) contains one 300mmX450mm acrylic file.
+※１　[工房merge+](https://www.emergeplus.jp/laser-cutting-service/contact/)、[遊舎工房](https://shop.yushakobo.jp/collections/services/products/lasercut)、[Elecrow](https://www.elecrow.com/acrylic-cutting.html) 等でアクリル加工が可能。
+<br>
+※２　The [case folder](https://github.com/telzo2000/cool936/tree/main/case) contains two 300mmX300mm acrylic files, and the [case_wide folder](https://github.com/telzo2000/cool936/tree/main/case_wide) contains one 300mmX450mm acrylic file.
 <br>
  [caseフォルダ](https://github.com/telzo2000/cool936/tree/main/case)には、300mmX300mmアクリル２枚、[case_wideフォルダ](https://github.com/telzo2000/cool936/tree/main/case_wide)には、300mmX450mmアクリル１枚にまとめられたファイルがある。
  <br>
-※２　Due to the difference in acrylic accuracy, 11mm, which is slightly shorter than 12mm, is more suitable.
+※３　Due to the difference in acrylic accuracy, 11mm, which is slightly shorter than 12mm, is more suitable.
 <br>アクリルの精度差により、12mmよりやや短い11mmの方が適当である。
 <br>
-※３　Since the cool936 is a QAZ-like keyboard, there are few keycaps to which the legend applies.
+※４　Since the cool936 is a QAZ-like keyboard, there are few keycaps to which the legend applies.
 <br>
 cool936は、QAZ的なキーボードなので、レジェンドが適応するキーキャップは少ない。
 <br><br>

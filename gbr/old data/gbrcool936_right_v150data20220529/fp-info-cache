@@ -1,4 +1,4 @@
-2339685723232939
+2172359047620793
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -5116,6 +5116,146 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+Hybrid-Switches
+MX-1.5u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.5u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.25u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.25u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.75u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.75u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.25u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.25u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.25u-ReversedStabilizers
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.75u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.75u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.75u-ReversedStabilizers
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-Alps-1.25u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-Alps-1u
+MX/Alps footprint
+
+0
+10
+4
+Hybrid-Switches
+MX-Alps-2u-ReversedStabilizers
+
+
+0
+12
+4
+Hybrid-Switches
+MX-ISO-ReversedStabilizers
+
+
+0
+4
+4
 Kailh_Choc
 KailhChoc-1.5U
 
@@ -5180,376 +5320,68 @@ ATMEGA32U4-AU
 44
 44
 KiCAD_FootPrint-master
-1pin_conn
-Resitance 3 pas
-R
-0
-1
-1
-KiCAD_FootPrint-master
-Breakaway_Tabs
-
-
-0
-0
-0
-KiCAD_FootPrint-master
-CherryMX_1u
+2pinBLE
 
 
 0
 2
 2
 KiCAD_FootPrint-master
-CherryMX_ChocV2_1.5u
+BLE_Micro_Pro_L1
 
 
 0
-5
-2
+26
+26
 KiCAD_FootPrint-master
-CherryMX_ChocV2_1u
+BLE_Micro_Pro_L1_rev
 
 
 0
-5
-2
+26
+26
 KiCAD_FootPrint-master
-CherryMX_Choc_1.5u
-
-
-0
-4
-2
-KiCAD_FootPrint-master
-CherryMX_Choc_1u
-
-
-0
-4
-2
-KiCAD_FootPrint-master
-CherryMX_Choc_Hotswap
-
-
-0
-8
-2
-KiCAD_FootPrint-master
-CherryMX_Choc_Hotswap_1.5u
-
-
-0
-8
-2
-KiCAD_FootPrint-master
-CherryMX_Hotswap
+Choc_v1
 
 
 0
 2
 2
 KiCAD_FootPrint-master
-CherryMX_Hotswap_1.5u
+Choc_v1_2u
 
 
 0
 2
 2
 KiCAD_FootPrint-master
-CherryMX_MidHeight_Choc_Hotswap
-
-
-0
-8
-2
-KiCAD_FootPrint-master
-CherryMX_MidHeight_Hotswap
-
-
-0
-4
-2
-KiCAD_FootPrint-master
-CherryMX_MidHeight_Hotswap_1.5u
-
-
-0
-4
-2
-KiCAD_FootPrint-master
-ChocV1_V2_Hotswap
+Choc_v2
 
 
 0
 3
 2
 KiCAD_FootPrint-master
-ChocV1_V2_Hotswap_1.5u
-
-
-0
-3
-2
-KiCAD_FootPrint-master
-D3_SMD
-Resitance 3 pas
-R
-0
-4
-2
-KiCAD_FootPrint-master
-D3_SMD_v2
-Resitance 3 pas
-R
-0
-2
-2
-KiCAD_FootPrint-master
-D3_TH
-Resitance 3 pas
-R
-0
-4
-2
-KiCAD_FootPrint-master
-D3_TH_SMD
-Resitance 3 pas
-R
-0
-6
-2
-KiCAD_FootPrint-master
-D3_TH_SMD_v2
-Resitance 3 pas
-R
-0
-4
-2
-KiCAD_FootPrint-master
-GND_pad
-
-
-0
-2
-2
-KiCAD_FootPrint-master
-HOLE
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-KiCAD_FootPrint-master
-IM_HOLE
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-KiCAD_FootPrint-master
-JP
-
-
-0
-3
-2
-KiCAD_FootPrint-master
-JPC2
-
-
-0
-3
-2
-KiCAD_FootPrint-master
-Jumper
-
-
-0
-2
-2
-KiCAD_FootPrint-master
-LED_WS2812B-PLCC4
-http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf
-LED NeoPixel
-0
-4
-4
-KiCAD_FootPrint-master
-M2_HOLE
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-1
-0
-KiCAD_FootPrint-master
-M2_HOLE_v2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-KiCAD_FootPrint-master
-M2_HOLE_v3
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-9
-1
-KiCAD_FootPrint-master
-M2_Hole_NPTH_Outside
+Choc_v2_Stab
 
 
 0
 0
-0
-KiCAD_FootPrint-master
-M2_Hole_TH
-
-
-0
-1
-0
-KiCAD_FootPrint-master
-M2_Hole_TH_Outside
-
-
-0
-1
-0
-KiCAD_FootPrint-master
-M2_Threads_v2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-1
 0
 KiCAD_FootPrint-master
 MJ-4PP-9
 
 
 0
-8
-4
-KiCAD_FootPrint-master
-MJ-4PP-9_1side
-
-
-0
 4
 4
 KiCAD_FootPrint-master
-MX_ALPS_PG1350_noLed
+MSK-12D19
 
 
 0
-11
-2
-KiCAD_FootPrint-master
-MX_ALPS_PG1350_noLed_1.75u
-
-
-0
-11
-2
-KiCAD_FootPrint-master
-OLED
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-KiCAD_FootPrint-master
-OLED_1side
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-KiCAD_FootPrint-master
-OLED_v2
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-KiCAD_FootPrint-master
-ProMicro_v2
-
-
-0
-48
-24
-KiCAD_FootPrint-master
-ProMicro_v2_1side
-
-
-0
-24
-24
-KiCAD_FootPrint-master
-ProMicro_v3
-
-
-0
-24
-24
-KiCAD_FootPrint-master
-ProMicro_v3.5
-
-
-0
-24
-24
-KiCAD_FootPrint-master
-R
-Resitance 3 pas
-R
-0
-2
-2
-KiCAD_FootPrint-master
-ResetSW
-
-
-0
-2
-2
-KiCAD_FootPrint-master
-ResetSW_1side
-
-
-0
-2
-2
-KiCAD_FootPrint-master
-ResetSW_4
-
-
-0
-4
-2
-KiCAD_FootPrint-master
-ResetSW_4P
-
-
-0
-4
-2
-KiCAD_FootPrint-master
-SK6812MINI_rev
-
-
-0
-8
-4
-KiCAD_FootPrint-master
-SK6812MINI_underglow_rev
-
-
-0
-8
-4
+3
+3
 KiCAD_FootPrint-master
 SW_Hole
 
@@ -5558,12 +5390,33 @@ SW_Hole
 0
 0
 KiCAD_FootPrint-master
-SW_Hole_ALPS
+SW_Hole_2.25u
 
 
 0
 0
 0
+KiCAD_FootPrint-master
+SW_Hole_2u
+
+
+0
+0
+0
+KiCAD_FootPrint-master
+SW_Hole_Choc_2u
+
+
+0
+4
+1
+KiCAD_FootPrint-master
+SW_Hole_Fn
+
+
+0
+13
+1
 KiCAD_FootPrint-master
 SW_Hole_TH
 
@@ -5572,133 +5425,49 @@ SW_Hole_TH
 4
 1
 KiCAD_FootPrint-master
-StripLED_1side
+SW_Hole_TH_2u
 
 
 0
-3
-3
-KiCAD_FootPrint-master
-StripLED_OUT_1side
-
-
-0
-1
+12
 1
 KiCAD_FootPrint-master
-StripLED_rev
-
-
-0
-6
-3
-KiCAD_FootPrint-master
-YS-SK6812MINI-E
+YS-SK6812MINI-E_BL
 
 
 0
 4
 4
 KiCAD_FootPrint-master
-corne
+YS-SK6812MINI-E_UG
 
 
 0
-0
-0
+4
+4
 KiCAD_FootPrint-master
-corne-cherry-logo
+ali_CR1632
 
 
 0
-0
-0
-KiCAD_FootPrint-master
-corne-horizontal
-
-
-0
-0
-0
-KiCAD_FootPrint-master
-corne-logo
-
-
-0
-0
-0
-KiCAD_FootPrint-master
-corne-logo-horizontal
-
-
-0
-0
-0
-KiCAD_FootPrint-master
-corne-logo-horizontal-mask
-
-
-0
-0
-0
-KiCAD_FootPrint-master
-corne-logo-silk
-
-
-0
-0
-0
-KiCAD_FootPrint-master
-corne-mask
-
-
-0
-0
-0
-KiCAD_FootPrint-master
-keyswitch_cherrymx_alps_choc12_1.5u
-
-
-0
-6
+3
 2
 KiCAD_FootPrint-master
-keyswitch_cherrymx_alps_choc12_1u
-
-
-0
-6
-2
-KiCAD_FootPrint-master
-keyswitch_hole
-
-
+capacitor
+Capacitor SMD 1206, hand soldering
+capacitor 1206
 0
 2
 2
 KiCAD_FootPrint-master
-petit_split-logo
+mgn_hole
 
 
 0
 0
 0
 KiCAD_FootPrint-master
-spacer_m2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-KiCAD_FootPrint-master
-thread_m2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-KiCAD_FootPrint-master
-waffle
+mgn_leg
 
 
 0
@@ -8091,20 +7860,328 @@ rotary encoder
 0
 5
 4
-Seeeduino XIAO KICAD
-Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM
+SMKJP
+BOARD_Pro_Micro
 
 
 0
-14
-14
-Seeeduino XIAO KICAD
-XIAO-2parturn
+24
+24
+SMKJP
+BOARD_Pro_Micro_Reversed
 
 
 0
-28
-14
+24
+24
+SMKJP
+BOARD_maple_mini
+
+
+0
+40
+40
+SMKJP
+BOARD_maple_mini_reversed
+
+
+0
+40
+40
+SMKJP
+CON_MJ-4PP-9
+
+
+0
+4
+4
+SMKJP
+CON_PJ320A
+
+
+0
+4
+4
+SMKJP
+D_SOD123_double_side_hand_soldering
+
+
+0
+6
+2
+SMKJP
+HOLE_D5
+
+
+0
+0
+0
+SMKJP
+LED_WS2812_tape_10mm
+
+
+0
+3
+3
+SMKJP
+SPACER_M2_D4
+
+
+0
+0
+0
+SMKJP
+SPACER_M2_HEX
+
+
+0
+0
+0
+SMKJP
+SW_Cherry_MX1A_1.00u_PCB
+Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u PCB
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.00u_PCB_LED
+Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u PCB
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.00u_PCB_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u PCB Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.00u_PCB_Reversible
+Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u PCB Reversible
+0
+4
+2
+SMKJP
+SW_Cherry_MX1A_1.00u_Plate
+Cherry MX keyswitch, MX1A, 1.00u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u Plate
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.00u_Plate_LED
+Cherry MX keyswitch, MX1A, 1.00u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u Plate
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.00u_Plate_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.00u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u Plate Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.00u_Plate_Reversible
+Cherry MX keyswitch, MX1A, 1.00u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u Plate Reversible
+0
+4
+2
+SMKJP
+SW_Cherry_MX1A_1.25u_PCB
+Cherry MX keyswitch, MX1A, 1.25u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u PCB
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.25u_PCB_LED
+Cherry MX keyswitch, MX1A, 1.25u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u PCB
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.25u_PCB_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.25u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u PCB Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.25u_PCB_Reversible
+Cherry MX keyswitch, MX1A, 1.25u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u PCB Reversible
+0
+4
+2
+SMKJP
+SW_Cherry_MX1A_1.25u_Plate
+Cherry MX keyswitch, MX1A, 1.25u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u Plate
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.25u_Plate_LED
+Cherry MX keyswitch, MX1A, 1.25u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u Plate
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.25u_Plate_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.25u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u Plate Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.25u_Plate_Reversible
+Cherry MX keyswitch, MX1A, 1.25u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u Plate Reversible
+0
+4
+2
+SMKJP
+SW_Cherry_MX1A_1.50u_PCB
+Cherry MX keyswitch, MX1A, 1.50u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u PCB
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.50u_PCB_LED
+Cherry MX keyswitch, MX1A, 1.50u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u PCB
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.50u_PCB_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.50u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u PCB Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.50u_PCB_Reversible
+Cherry MX keyswitch, MX1A, 1.50u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u PCB Reversible
+0
+4
+2
+SMKJP
+SW_Cherry_MX1A_1.50u_Plate
+Cherry MX keyswitch, MX1A, 1.50u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u Plate
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.50u_Plate_LED
+Cherry MX keyswitch, MX1A, 1.50u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u Plate
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.50u_Plate_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.50u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u Plate Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.50u_Plate_Reversible
+Cherry MX keyswitch, MX1A, 1.50u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u Plate Reversible
+0
+4
+2
+SMKJP
+SW_Cherry_MX1A_1.75u_PCB
+Cherry MX keyswitch, MX1A, 1.75u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u PCB
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.75u_PCB_LED
+Cherry MX keyswitch, MX1A, 1.75u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u PCB
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.75u_PCB_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.75u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u PCB Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.75u_PCB_Reversible
+Cherry MX keyswitch, MX1A, 1.75u, PCB mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u PCB Reversible
+0
+4
+2
+SMKJP
+SW_Cherry_MX1A_1.75u_Plate
+Cherry MX keyswitch, MX1A, 1.75u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u Plate
+0
+2
+2
+SMKJP
+SW_Cherry_MX1A_1.75u_Plate_LED
+Cherry MX keyswitch, MX1A, 1.75u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u Plate
+0
+4
+4
+SMKJP
+SW_Cherry_MX1A_1.75u_Plate_LED_Reversible
+Cherry MX keyswitch, MX1A, 1.75u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u Plate Reversible
+0
+6
+4
+SMKJP
+SW_Cherry_MX1A_1.75u_Plate_Reversible
+Cherry MX keyswitch, MX1A, 1.75u, Plate mount, http://cherryamericas.com/wp-body/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u Plate Reversible
+0
+4
+2
+SMKJP
+SW_kailh_pg1350_1u
+
+
+0
+2
+2
+SMKJP
+SW_kailh_pg1350_1u_Reversible
+
+
+0
+3
+2
+SMKJP
+hotswapst
+
+
+0
+0
+0
 Type-C
 12401598E4#2A
 
@@ -8700,19 +8777,82 @@ EVQWGD001
 0
 6
 6
+keebs
+Mx_Alps_100
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_125
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_150
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_175
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_200
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_225
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_275
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_625
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Pro_Micro
+
+
+0
+24
+24
+keebs
+Teensy_20
+
+
+0
+31
+31
 logo
 CherryMX_Choc_1u_kimura
 
 
 0
 4
-2
-logo
-CherryMX_Hotswap_6.25U_kimura
-
-
-0
-2
 2
 logo
 CherryMX_Hotswap_ISO_ENTER_kimura
@@ -8750,13 +8890,6 @@ EVQWGD001
 6
 6
 logo
-ProMicro_kakucho
-
-
-0
-48
-24
-logo
 ProMicro_v3_kimura
 
 
@@ -8792,19 +8925,12 @@ rotary encoder
 8
 4
 logo
-TRRSpad
-Resitance 3 pas
-R
-0
-4
-4
-logo
 TRSpad
 Resitance 3 pas
 R
 0
-3
-3
+4
+4
 logo
 USBtypeC-kiban
 Resitance 3 pas
@@ -8826,20 +8952,6 @@ R
 0
 4
 2
-logo
-XIAO_RP2040
-
-
-0
-14
-14
-logo
-XIAO_RP2040v2
-
-
-0
-14
-14
 logo
 aliceeatpi
 
@@ -8896,13 +9008,6 @@ CONN DEV
 0
 3
 3
-logo
-kiritori
-
-
-0
-0
-0
 logo
 kiritoriparts
 
@@ -9085,783 +9190,6 @@ breakaway-mousebites
 0
 0
 0
-takashicompany
-AE-USB2.0-TYPE-C-5077R
-
-
-0
-4
-0
-takashicompany
-ALI_CR1632_Holder
-
-
-0
-3
-2
-takashicompany
-BAT_SMTU1220-LF
-
-
-0
-2
-2
-takashicompany
-BLE-Micro-Pro_r_print-inside
-
-
-0
-26
-26
-takashicompany
-C_1206_HandSoldering
-Capacitor SMD 1206, hand soldering
-capacitor 1206
-0
-2
-2
-takashicompany
-CherryMX-Choc_TH-Hotswap
-
-
-0
-8
-2
-takashicompany
-CherryMX-Choc_TH-Hotswap_16mm
-
-
-0
-8
-2
-takashicompany
-CherryMX-MidHeight-Choc_TH_16mm
-
-
-0
-4
-2
-takashicompany
-CherryMX-MidHeight-Choc_TH_16mm_RotaryEncoder
-
-
-0
-9
-5
-takashicompany
-CherryMX-MidHeight-Choc_TH_Biased_16mm
-
-
-0
-4
-2
-takashicompany
-CherryMX-MidHeight_Hotswap_Bottom
-
-
-0
-2
-2
-takashicompany
-CherryMX-MidHeight_Hotswap_Bottom_RotaryEncoder
-
-
-0
-7
-5
-takashicompany
-CherryMX_Hotswap_1.25u
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_1.25u_v_l
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_1.25u_v_r
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_1.50u
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_1.50u_v_l
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_1.50u_v_r
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_1.75u
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_2.00u
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_2.00u_v
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_2.25u
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_2.75u
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_6.25u
-
-
-0
-2
-2
-takashicompany
-CherryMX_Hotswap_ISO-Enter
-
-
-0
-2
-2
-takashicompany
-CherryMX_Reverse-Upside_down
-
-
-0
-8
-2
-takashicompany
-CherryMX_Reversible
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_1.25u
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_1.25u_v
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_1.50u
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_1.50u_v
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_1.75u
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_2.00u
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_2.00u_v
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_2.25u
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_2.75u
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_6.25u
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_ISO-Enter
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_ISO-Enter_hor
-
-
-0
-4
-2
-takashicompany
-CherryMX_TH-Hotswap_RotaryEncoder
-
-
-0
-9
-5
-takashicompany
-CherryMX_TH_1.00u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_1.25u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_1.50u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_1.75u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_2.00u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_2.00u_Stabilizer
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_2.00u_v
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_2.25u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_2.25u_Stabilizer
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_2.75u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_6.25u
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_6.25u_Stabilizer
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_Hotswap_Reversible
-
-
-0
-8
-2
-takashicompany
-CherryMX_TH_Hotswap_Reversible_RotaryEncoder_EC11
-
-
-0
-13
-5
-takashicompany
-CherryMX_TH_Hotswap_Reversible_RotaryEncoder_EC11_v2
-
-
-0
-13
-5
-takashicompany
-CherryMX_TH_Hotswap_Reversible_RotaryEncoder_EC11_v3
-
-
-0
-13
-5
-takashicompany
-CherryMX_TH_Hotswap_Reversible_v2
-
-
-0
-8
-2
-takashicompany
-CherryMX_TH_ISO-Enter
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_No-Outline
-
-
-0
-2
-2
-takashicompany
-CherryMX_TH_Reversible_RotaryEncoder_EC11
-
-
-0
-9
-5
-takashicompany
-CherryMX_TH_RotaryEncoder_EC11
-
-
-0
-7
-5
-takashicompany
-Choc_TH-Hotswap_CherryMX-TH_16mm
-
-
-0
-6
-2
-takashicompany
-D3_TH_SMD_v2_Reversible
-Resitance 3 pas
-R
-0
-6
-2
-takashicompany
-D_SOD-323_HandSoldering
-SOD-323
-SOD-323
-0
-2
-2
-takashicompany
-DiodeHole_D3_TH_SMD_v2
-Resitance 3 pas
-R
-0
-0
-0
-takashicompany
-GL516_Decoration-Plate
-
-
-0
-0
-0
-takashicompany
-GL516_PCB
-
-
-0
-0
-0
-takashicompany
-GL516_Switch-Plate
-
-
-0
-0
-0
-takashicompany
-HU1632
-
-
-0
-5
-2
-takashicompany
-KeySwitchHole_MX-Choc-TH
-
-
-0
-0
-0
-takashicompany
-KeySwitchHole_MX-Choc-TH-RotaryEncoder
-
-
-0
-0
-0
-takashicompany
-KeySwitchHole_MX-Choc-TH_Biased
-
-
-0
-0
-0
-takashicompany
-KeySwitchHole_MX-Socket
-
-
-0
-0
-0
-takashicompany
-KeySwitchHole_MX-Socket-TH
-
-
-0
-0
-0
-takashicompany
-KeySwitch_14mm
-
-
-0
-0
-0
-takashicompany
-KeySwitch_16mm-14mm
-
-
-0
-0
-0
-takashicompany
-KeySwitch_16mm-14mm-2mmOver_Grid
-
-
-0
-0
-0
-takashicompany
-KeySwitch_16mm-14mm-RotaryEncoder
-
-
-0
-0
-0
-takashicompany
-KeySwitch_16mm-14mm_Grid
-
-
-0
-0
-0
-takashicompany
-KeySwitch_19.05mm-13.90mm
-
-
-0
-0
-0
-takashicompany
-KeySwitch_19.05mm-14mm
-
-
-0
-0
-0
-takashicompany
-KeySwitch_19.05mm-14mm-RotaryEncoder
-
-
-0
-0
-0
-takashicompany
-KeySwitch_19.05mm-14mm_10mm_Grid
-
-
-0
-0
-0
-takashicompany
-KeySwitch_19.05mm-14mm_Grid
-
-
-0
-0
-0
-takashicompany
-LED_Hole-4
-
-
-0
-0
-0
-takashicompany
-M2_Hole
-Resitance 3 pas
-R
-0
-0
-0
-takashicompany
-M2_Hole_With_Spacer
-Resitance 3 pas
-R
-0
-0
-0
-takashicompany
-MK12C02
-
-
-0
-7
-4
-takashicompany
-OLED_v2_LVC27
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-takashicompany
-OLED_v2_Reversible
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-takashicompany
-PIM447
-Connecteur 6 pins
-CONN DEV
-0
-5
-5
-takashicompany
-ProMicro_v3.5_print-inside
-
-
-0
-24
-24
-takashicompany
-RJ45_OST_PJ012-8P8CX_Vertical_Center
-RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf
-RJ45 PJ012
-0
-8
-8
-takashicompany
-RJ45_OST_PJ012-8P8CX_Vertical_Center_Reversible
-RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf
-RJ45 PJ012
-0
-9
-9
-takashicompany
-ResetSW_HOLE
-
-
-0
-0
-0
-takashicompany
-SK6812MINI_Hole
-
-
-0
-0
-0
-takashicompany
-SK6812MINI_bg
-
-
-0
-4
-4
-takashicompany
-SK6812MINI_bg_reversible
-
-
-0
-8
-4
-takashicompany
-SW_Cherry_MX_Hotswap_1.25u_Plate
-Cherry MX keyswitch, 1.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.25u plate
-0
-2
-2
-takashicompany
-SolderJumper-3
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-3
-3
-takashicompany
-SolderJumper-3_Reversible
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-6
-3
-takashicompany
-SolderJumper-3_Triangle_Reversible
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
-0
-4
-3
-takashicompany
-Stabilizer2u-Case
-
-
-0
-0
-0
-takashicompany
-TVAF17-WFC-R
-
-
-0
-4
-4
-takashicompany
-WS2812B
-
-
-0
-8
-4
-takashicompany
-WS2812B_Hole
-
-
-0
-0
-0
-takashicompany
-WS2812B_Reversible
-
-
-0
-8
-4
-takashicompany
-WS2812B_Reversible_v2
-
-
-0
-8
-4
-takashicompany
-WS2812B_TH
-
-
-0
-4
-4
-takashicompany
-lvc27
-
-
-0
-5
-5
 yuiop
 Board_GH60_blank
 

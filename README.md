@@ -52,7 +52,7 @@ These keyboards is designed by m.ki.
 |844V2|none|alice|pro micro|[Here](https://github.com/telzo2000/cool844V2)|[Here](https://mki0002ozlet.booth.pm/items/3267681)|
 |847|none|alice|pro micro|[Here](https://github.com/telzo2000/cool847)|[Here](https://mki0002ozlet.booth.pm/items/3358065)|
 |936|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool936)|none|
-|939|none|row splite|pro micro|none|none|
+|939|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool939)|none|
 |943S|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool943S)|[Here](https://mki0002ozlet.booth.pm/items/2901779)|
 |950S|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool950S)|[Here](https://mki0002ozlet.booth.pm/items/3160071)|
 

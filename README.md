@@ -55,7 +55,7 @@ These keyboards is designed by m.ki.
 |939|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool939)|none|
 |943S|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool943S)|[Here](https://mki0002ozlet.booth.pm/items/2901779)|
 |950S|none|row splite|pro micro|[Here](https://github.com/telzo2000/cool950S)|[Here](https://mki0002ozlet.booth.pm/items/3160071)|
-|959|none|alice splite|pro micro|[Here]8https://github.com/telzo2000/cool959)|none|
+|959|none|alice splite|pro micro|[Here](https://github.com/telzo2000/cool959)|none|
 
 
 

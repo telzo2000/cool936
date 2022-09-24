@@ -37,7 +37,8 @@
  * Split Keyboard specific options, make sure you have 'SPLIT_KEYBOARD = yes' in your rules.mk, and define SOFT_SERIAL_PIN.
  */
 #define SOFT_SERIAL_PIN D2  // or D1, D2, D3, E6
-
+#define RGBLIGHT_SPLIT
+#define RGBLED_SPLIT { 6, 6 }
 //#define LED_NUM_LOCK_PIN B0
 //#define LED_CAPS_LOCK_PIN B1
 //#define LED_SCROLL_LOCK_PIN B2
@@ -49,11 +50,12 @@
 //#define BACKLIGHT_BREATHING
 
 #define RGB_DI_PIN D3
+
 #ifdef RGB_DI_PIN
 #    define RGBLED_NUM 16
-#    define RGBLIGHT_HUE_STEP 8
-#    define RGBLIGHT_SAT_STEP 8
-#    define RGBLIGHT_VAL_STEP 8
+#    define RGBLIGHT_HUE_STEP 16
+#    define RGBLIGHT_SAT_STEP 16
+#    define RGBLIGHT_VAL_STEP 16  
 #    define RGBLIGHT_LIMIT_VAL 255 /* The maximum brightness level */
 #    define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 /*== all animations enable ==*/

@@ -40,7 +40,7 @@ These keyboards is designed by m.ki.
 |434|MyFirstMini|row|pro micro|none|none|
 |445|none|row|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool445)|[Here](https://mki0002ozlet.booth.pm/items/4069834)|
 |536|none|column|pro micro|[Here](https://github.com/telzo2000/cool536)|[Here](https://mki0002ozlet.booth.pm/items/4190386)|
-|536azcore|none|vplum|AZ-CORE|[Here](https://github.com/telzo2000/cool536azcore)|[Here](https://mki0002ozlet.booth.pm/items/4424562)|
+|536azcore|none|colum|AZ-CORE|[Here](https://github.com/telzo2000/cool536azcore)|[Here](https://mki0002ozlet.booth.pm/items/4424562)|
 |544|Caravellion|column|pro micro|none|none|
 |635|none|ortho|pro micro|[Here](https://github.com/telzo2000/cool635-)|none|
 |640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640) |[Here](https://mki0002ozlet.booth.pm/items/3729914)|

@@ -48,9 +48,9 @@ These keyboards is designed by m.ki.
 |640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|https://mki0002ozlet.booth.pm/items/3729914|6
 |640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|https://mki0002ozlet.booth.pm/items/3729914|
 |650|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool650)|[Here](https://mki0002ozlet.booth.pm/items/3585417)|
-|664|none|ortho splite|pro micro|{Here}(https://github.com/telzo2000/cool664)|https://mki0002ozlet.booth.pm/items/4328726|
+|664|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool664)|https://mki0002ozlet.booth.pm/items/4328726|
 |753|none|row|pro micro|none|none|
-|756|none|row|pro micro|{Here](https://github.com/telzo2000/cool756)|https://mki0002ozlet.booth.pm/items/4491960|
+|756|none|row|pro micro|[Here](https://github.com/telzo2000/cool756)|https://mki0002ozlet.booth.pm/items/4491960|
 |836A|none|alice|pro micro|[Here](https://github.com/telzo2000/cool836A)|[Here](https://mki0002ozlet.booth.pm/items/2542223)|
 |836pico|none|alice|Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool836pico)|[Here](https://mki0002ozlet.booth.pm/items/3391829)|
 |836rp|none|alice|RP2040-Zero|[Here](https://github.com/telzo2000/cool836pico)|[Here](https://mki0002ozlet.booth.pm/items/3599330)|

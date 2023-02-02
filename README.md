@@ -43,7 +43,7 @@ These keyboards is designed by m.ki.
 |536azcore|none|vplum|AZ-CORE|[Here](https://github.com/telzo2000/cool536azcore)|[Here](https://mki0002ozlet.booth.pm/items/4424562)|
 |544|Caravellion|column|pro micro|none|none|
 |635|none|ortho|pro micro|[Here](https://github.com/telzo2000/cool635-)|none|
-|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|[Here](https://mki0002ozlet.booth.pm/items/3729914)|
+|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640) |[Here](https://mki0002ozlet.booth.pm/items/3729914)|
 |644|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool644)|[Here](https://mki0002ozlet.booth.pm/items/3729914)|
 |640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|[Here](https://mki0002ozlet.booth.pm/items/3729914)|
 |640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)[Here](|https://mki0002ozlet.booth.pm/items/3729914)|

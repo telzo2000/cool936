@@ -45,8 +45,8 @@ These keyboards is designed by m.ki.
 |635|none|ortho|pro micro|[Here](https://github.com/telzo2000/cool635-)|none|
 |640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640) |[Here](https://mki0002ozlet.booth.pm/items/3729914)|
 |644|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool644)|[Here](https://mki0002ozlet.booth.pm/items/3729914)|
-|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|[Here](https://mki0002ozlet.booth.pm/items/3729914)|
-|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)[Here](|https://mki0002ozlet.booth.pm/items/3729914)|
+|640|none|ortho splite|pro micro & Raspberry Pi Pico | [Here](https://github.com/telzo2000/cool640)|[Here](https://mki0002ozlet.booth.pm/items/3729914)|
+|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|[Here](|https://mki0002ozlet.booth.pm/items/3729914)|
 |650|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool650)|[Here](https://mki0002ozlet.booth.pm/items/3585417)|
 |664|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool664)|[Here](https://mki0002ozlet.booth.pm/items/4328726)|
 |753|none|row|pro micro|none|none|

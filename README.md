@@ -38,13 +38,19 @@ These keyboards is designed by m.ki.
 |cool|another name|keyboard type|MCU|URL|Sales site|
 | -- | -- | -- | -- | -- | -- |
 |434|MyFirstMini|row|pro micro|none|none|
-|445|none|row|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool445)|none|
-|536|none|column|pro micro|[Here](https://github.com/telzo2000/cool536)|none|
+|445|none|row|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool445)|https://mki0002ozlet.booth.pm/items/4069834|
+|536|none|column|pro micro|[Here](https://github.com/telzo2000/cool536)|https://mki0002ozlet.booth.pm/items/4190386|
+|536azcore|none|vplum|AZ-CORE|[Here](https://github.com/telzo2000/cool536azcore)|https://mki0002ozlet.booth.pm/items/4424562|
 |544|Caravellion|column|pro micro|none|none|
 |635|none|ortho|pro micro|[Here](https://github.com/telzo2000/cool635-)|none|
-|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|in preparation|
+|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|https://mki0002ozlet.booth.pm/items/3729914|
+|644|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool644)|https://mki0002ozlet.booth.pm/items/3729914|
+|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|https://mki0002ozlet.booth.pm/items/3729914|6
+|640|none|ortho splite|pro micro & Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool640)|https://mki0002ozlet.booth.pm/items/3729914|
 |650|none|ortho splite|pro micro|[Here](https://github.com/telzo2000/cool650)|[Here](https://mki0002ozlet.booth.pm/items/3585417)|
+|664|none|ortho splite|pro micro|{Here}(https://github.com/telzo2000/cool664)|https://mki0002ozlet.booth.pm/items/4328726|
 |753|none|row|pro micro|none|none|
+|756|none|row|pro micro|{Here](https://github.com/telzo2000/cool756)|https://mki0002ozlet.booth.pm/items/4491960|
 |836A|none|alice|pro micro|[Here](https://github.com/telzo2000/cool836A)|[Here](https://mki0002ozlet.booth.pm/items/2542223)|
 |836pico|none|alice|Raspberry Pi Pico|[Here](https://github.com/telzo2000/cool836pico)|[Here](https://mki0002ozlet.booth.pm/items/3391829)|
 |836rp|none|alice|RP2040-Zero|[Here](https://github.com/telzo2000/cool836pico)|[Here](https://mki0002ozlet.booth.pm/items/3599330)|

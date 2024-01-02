@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name cool936-rescue)(type Legacy)(uri ${KIPRJMOD}/cool936-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "cool936-rescue")(type "KiCad")(uri "${KIPRJMOD}/cool936-rescue.kicad_sym")(options "")(descr ""))
 )

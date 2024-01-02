@@ -1,0 +1,77 @@
+{
+    "manufacturer": "m.ki",
+    "keyboard_name": "cool936",
+    "maintainer": "telzo2000",
+    "bootloader": "caterina",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "via": true,
+        "vial": true
+    },
+    "matrix_pins": {
+        "cols": ["D4", "C6", "D7", "E6", "B5"],
+        "rows": ["F6", "F7", "B1", "B2"]
+    },
+    "processor": "atmega32u4",
+    "url": "https://github.com/telzo2000/cool936",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0936",
+        "vid": "0x4D43"
+    },
+    "layouts": {
+        "LAYOUT_ortho_4x4": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+                { "matrix": [0, 3], "x": 3, "y": 0 },
+                { "matrix": [0, 4], "x": 4, "y": 0 },
+
+                { "matrix": [4, 0], "x": 9.5, "y": 4 },
+                { "matrix": [4, 1], "x": 10.5, "y": 4 },
+                { "matrix": [4, 2], "x": 11.5, "y": 4 },
+                { "matrix": [4, 3], "x": 12.5, "y": 4 },
+                { "matrix": [4, 4], "x": 13.5, "y": 4 },
+
+                { "matrix": [1, 0], "x": 0.25, "y": 1 },
+                { "matrix": [1, 1], "x": 1.25, "y": 1 },
+                { "matrix": [1, 2], "x": 2.25, "y": 1 },
+                { "matrix": [1, 3], "x": 3.25, "y": 1 },
+                { "matrix": [1, 4], "x": 4.25, "y": 1 },
+                { "matrix": [5, 0], "x": 9.75, "y": 5 },
+                { "matrix": [5, 1], "x": 10.75, "y": 5 },
+                { "matrix": [5, 2], "x": 11.75, "y": 5 },
+                { "matrix": [5, 3], "x": 12.75, "y": 5 },
+                { "matrix": [5, 4], "x": 13.75, "y": 5 },
+
+                { "matrix": [2, 0], "x": 0.75, "y": 2 },
+                { "matrix": [2, 1], "x": 1.75, "y": 2 },
+                { "matrix": [2, 2], "x": 2.75, "y": 2 },
+                { "matrix": [2, 3], "x": 3.75, "y": 2 },
+                { "matrix": [2, 4], "x": 4.75, "y": 2 },
+
+                { "matrix": [6, 0], "x": 10.25, "y": 6 },
+                { "matrix": [6, 1], "x": 11.25, "y": 6 },
+                { "matrix": [6, 2], "x": 12.25, "y": 6 },
+                { "matrix": [6, 3], "x": 13.25, "y": 6 },
+
+                { "matrix": [3, 0], "x": 1.25, "y": 3 },
+                { "matrix": [3, 1], "x": 2.25, "y": 3 },
+                { "matrix": [3, 2], "x": 3.25, "y": 3 },
+                { "matrix": [3, 3], "x": 4.25, "y": 3 },
+
+                { "matrix": [7, 0], "x": 10, "y": 7 },
+                { "matrix": [7, 1], "x": 11, "y": 7 },
+                { "matrix": [7, 2], "x": 12.75, "y": 7 }
+
+            ]
+        }
+    }
+}

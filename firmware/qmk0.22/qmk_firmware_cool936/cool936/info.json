@@ -8,9 +8,9 @@
         "bootmagic": true,
         "command": false,
         "console": false,
-        "extrakey": true,
-        "mousekey": true,
-        "nkro": true,
+        "extrakey": false,
+        "mousekey": false,
+        "nkro": false,
         "via": true,
         "vial": true
     },
